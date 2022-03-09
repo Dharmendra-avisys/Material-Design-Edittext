@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/drawable/background_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/drawable/camera_permission_button_background_drawable.xml" value="0.1" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/drawable/camera_permission_button_drawable_ripple.xml" value="0.1" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/drawable/checked.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/drawable/cursor_color.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/drawable/edittext_drawable_background.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/drawable/ic_check_circle.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/drawable/ic_placeholder.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/activity_blue_tooth.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/activity_bluetooth_service.xml" value="0.1" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/activity_google_maps.xml" value="0.1" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/activity_media_player.xml" value="0.1" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/activity_my_content_provier.xml" value="0.1381340579710145" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/activity_my_firestore.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/camer_permission_popup_after_denied.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/dialog_for_no_internet.xml" value="0.1" />
+        <entry key="..\:/Users/DHARMENDRA KUMAR/Dharmendra/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/notification.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/Dharmendra_Java/GameAppAnimation/app/src/main/res/drawable/camera_permission_button_background_drawable.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/Dharmendra_Java/GameAppAnimation/app/src/main/res/drawable/camera_permission_button_drawable_ripple.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/Dharmendra_Java/GameAppAnimation/app/src/main/res/drawable/ic_placeholder.xml" value="0.11203703703703703" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/Dharmendra_Java/GameAppAnimation/app/src/main/res/drawable/search_places_background_button.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/Dharmendra_Java/GameAppAnimation/app/src/main/res/drawable/search_places_background_button_ripple.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/activity_google_maps.xml" value="0.1" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/activity_my_content_provier.xml" value="0.1921875" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/content_provider_simple_cursor_adapter.xml" value="0.1921875" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/Dharmendra_Java/GameAppAnimation/app/src/main/res/layout/fragment_maps.xml" value="0.1921875" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/drawable/camera_permission_button_background_drawable.xml" value="0.1" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/drawable/camera_permission_button_drawable_ripple.xml" value="0.1" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/drawable/edittext_drawable_background.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/layout/activity_multi_sprite.xml" value="0.1921875" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/layout/activity_multiple_running_permission.xml" value="0.1921875" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/layout/activity_my_paging.xml" value="0.1921875" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/layout/activity_pagination.xml" value="0.1" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/layout/activity_person_details.xml" value="0.1" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/layout/activity_runtime_permission.xml" value="0.1921875" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/layout/activity_splash_screen.xml" value="0.1921875" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/layout/camer_permission_popup_after_denied.xml" value="0.1" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/layout/person_layout_adapter.xml" value="0.1" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/layout/user_list_adapter.xml" value="0.1" />
+        <entry key="..\:/Users/Dharmendra Kumar/AndroidStudioProjects/GameAppAnimation/app/src/main/res/layout/user_list_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
